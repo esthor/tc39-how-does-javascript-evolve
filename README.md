@@ -34,23 +34,33 @@ OSS Normie - [swipeable list](https://github.com/esthor/react-native-swipeable-l
 ## History of JavaScript
 
 See a talk I gave in 2019 on ["The Future of UI" (Spoiler: It's written in ReasonML)](https://github.com/esthor/future-of-ui)
+
 Netscape, Marc Andreeson, Brendan Eich and last minute "we should have interactivity in these documents" product requirement
+
 OG Name, Java:tm: branding, ECMA
+
 The Period of Great Evils from Redmond: Microsoft, IE, JScript and the death of ES4
+
 
 ## ECMA aka Ecma International
 
 What is it? What was it?
+
 What other things do they standardize?
+
 (JSON, Dart, C#, NFC, and just a bunch of technology related standards)
+
 
 ## Naming is hard
 
 ECMA -> Ecma International
+
 LiveScript -> JavaScript -> ECMAScript -> ES6 -> ES2022
+
 
 ## TC39
 
 Who
 
 ## For ||Browsers|| *Engines*
+
